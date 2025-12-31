@@ -430,7 +430,7 @@ body {
   }
 
   .title-26 {
-    content: url("assets/mobile/26-mobile.png");
+    content: url("assets/26 awaits you.png");
     width: 180px;
   }
 
@@ -485,4 +485,5 @@ body {
     transform: none;
     display: block;
   }
+
 }
